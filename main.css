@@ -1,0 +1,71 @@
+/* General Styles*/
+body { background-color:black; }
+
+/*Menu Styling*/
+#menu_nav a
+    {font-weight:bold; font-size:1em; color:#eb984e; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode';
+    }
+
+
+/*index.html */
+
+#genre-content{margin-top:5em}
+#genre-content h1{font-family: Helvetica, sans-serif, sans-serif; color:white;}
+#hot {margin-top:2em;color:white; margin-left:6.5em;}
+
+/*events.php*/
+.container#event-videos {margin-top:5em;}
+.panel-defualt {border:none}
+
+/* Dj.php */
+.container#djsbio
+ { margin-top:6em;}
+.thumbnail{background-color: black; border:none}
+#djsbio h2 {color:goldenrod; font-family:sans-serif; text-align:center}
+.container#djsbio p {color:lightgray; font-weight:bold; font-size:1.2em;}
+
+/* Downloads.php */
+#downloads { color:white; margin-left:16em;margin-top:6em;}
+.virtualdjpic {float:bottom; margin-bottom: 1em;}
+#firstlink{width:15%}
+.flstudiopic{float:bottom; margin-bottom: 1em}
+#secondlink {width:15%}
+/*end of Downloads styling*/
+
+/*research.php*/
+ 
+
+div.container#slideshow
+{
+    margin-top: 5em;
+}
+
+div#slideshow button 
+{
+margin-top: 12em;
+}
+
+#back_btn {
+    margin-left: -25px;
+}
+div.container#research_article
+{
+    margin: 30px,30px,30px,30px;
+    margin-bottom: 100px;
+    margin-top:30px;
+    background-color: #212427;
+    width: 70%;
+    height:14%;
+    font-size:1.3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+
+span.glyphicon-file
+{
+    color: #d4ac0d;
+    font-size:2.8em;
+    margin-top:16px;
+}
