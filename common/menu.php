@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="nav-collapse">
                     <ul class=" nav navbar-nav" id="menu_nav">
                          <li>
-                            <a href="index.html">
+                            <a href="index.php">
                                 Tracks
                               </a>
                         </li>
